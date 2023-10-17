@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: #00283C;
+
+}
+.logo
+{
+    width: 200px;
+}
+hr
+{
+    border: 1px solid #00283C
+    
+}
+h1{
+    color:#FA6432;
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    
+}
+p{
+    margin: 0;
+    padding: 15px;
+}
+div{
+    background-color: #00283C;
+    text-align: center;
+   
+}
+a:link{
+    text-decoration: none;
+    
+}
+a:visited
+{
+    text-decoration: underline;
+    
+}
+a:hover{
+    color: orange;
+}
